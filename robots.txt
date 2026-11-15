@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lartisan-serrurier-morbihannais.netlify.app/sitemap.xml
